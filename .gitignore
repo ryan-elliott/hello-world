@@ -13,4 +13,5 @@ hs_err_pid*
 
 logs/*
 !special.log
+stuff-to-delete.txt
 
